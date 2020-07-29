@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Ioannis! 👋
+
+##### aka JChrist
+All-Around Dev | Clean-Code focused | Java Enthusiast
 
 <!--
 **JChrist/JChrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
